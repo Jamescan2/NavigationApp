@@ -1,0 +1,7 @@
+#Sat Dec 03 21:22:28 GMT 2016
+base.0=C\:\\Android\\NavigationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7854ccdeba407a9ed44fd00458d62c1634c9ee8f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Android\\NavigationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_090c715be1466fdb1e04e3d725c81d91ab104b7f\\classes.dex
+base.1=C\:\\Android\\NavigationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_090c715be1466fdb1e04e3d725c81d91ab104b7f
+file.0=C\:\\Android\\NavigationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7854ccdeba407a9ed44fd00458d62c1634c9ee8f\\classes.dex

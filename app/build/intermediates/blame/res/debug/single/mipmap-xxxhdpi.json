@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Android\\NavigationApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_mail_outline_black_24dp.png",
+        "source": "C:\\Android\\NavigationApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_mail_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android\\NavigationApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_person_black_24dp.png",
+        "source": "C:\\Android\\NavigationApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android\\NavigationApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_attach_money_black_24dp.png",
+        "source": "C:\\Android\\NavigationApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android\\NavigationApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_search_black_24dp.png",
+        "source": "C:\\Android\\NavigationApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android\\NavigationApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_settings_black_24dp.png",
+        "source": "C:\\Android\\NavigationApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Android\\NavigationApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Android\\NavigationApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
